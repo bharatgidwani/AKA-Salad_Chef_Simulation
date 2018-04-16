@@ -1,0 +1,2117 @@
+fileFormatVersion: 2
+guid: 57f6d1fa0e9faae41ab23fa08b80c923
+timeCreated: 1523530835
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: LoadingAnimation_0
+    21300002: LoadingAnimation_1
+    21300004: LoadingAnimation_2
+    21300006: LoadingAnimation_3
+    21300008: LoadingAnimation_4
+    21300010: LoadingAnimation_5
+    21300012: LoadingAnimation_6
+    21300014: LoadingAnimation_7
+    21300016: LoadingAnimation_8
+    21300018: LoadingAnimation_9
+    21300020: LoadingAnimation_10
+    21300022: LoadingAnimation_11
+    21300024: LoadingAnimation_12
+    21300026: LoadingAnimation_13
+    21300028: LoadingAnimation_14
+    21300030: LoadingAnimation_15
+    21300032: LoadingAnimation_16
+    21300034: LoadingAnimation_17
+    21300036: LoadingAnimation_18
+    21300038: LoadingAnimation_19
+    21300040: LoadingAnimation_20
+    21300042: LoadingAnimation_21
+    21300044: LoadingAnimation_22
+    21300046: LoadingAnimation_23
+    21300048: LoadingAnimation_24
+    21300050: LoadingAnimation_25
+    21300052: LoadingAnimation_26
+    21300054: LoadingAnimation_27
+    21300056: LoadingAnimation_28
+    21300058: LoadingAnimation_29
+    21300060: LoadingAnimation_30
+    21300062: LoadingAnimation_31
+    21300064: LoadingAnimation_32
+    21300066: LoadingAnimation_33
+    21300068: LoadingAnimation_34
+    21300070: LoadingAnimation_35
+    21300072: LoadingAnimation_36
+    21300074: LoadingAnimation_37
+    21300076: LoadingAnimation_38
+    21300078: LoadingAnimation_39
+    21300080: LoadingAnimation_40
+    21300082: LoadingAnimation_41
+    21300084: LoadingAnimation_42
+    21300086: LoadingAnimation_43
+    21300088: LoadingAnimation_44
+    21300090: LoadingAnimation_45
+    21300092: LoadingAnimation_46
+    21300094: LoadingAnimation_47
+    21300096: LoadingAnimation_48
+    21300098: LoadingAnimation_49
+    21300100: LoadingAnimation_50
+    21300102: LoadingAnimation_51
+    21300104: LoadingAnimation_52
+    21300106: LoadingAnimation_53
+    21300108: LoadingAnimation_54
+    21300110: LoadingAnimation_55
+    21300112: LoadingAnimation_56
+    21300114: LoadingAnimation_57
+    21300116: LoadingAnimation_58
+    21300118: LoadingAnimation_59
+    21300120: LoadingAnimation_60
+    21300122: LoadingAnimation_61
+    21300124: LoadingAnimation_62
+    21300126: LoadingAnimation_63
+    21300128: LoadingAnimation_64
+    21300130: LoadingAnimation_65
+    21300132: LoadingAnimation_66
+    21300134: LoadingAnimation_67
+    21300136: LoadingAnimation_68
+    21300138: LoadingAnimation_69
+    21300140: LoadingAnimation_70
+    21300142: LoadingAnimation_71
+    21300144: LoadingAnimation_72
+    21300146: LoadingAnimation_73
+    21300148: LoadingAnimation_74
+    21300150: LoadingAnimation_75
+    21300152: LoadingAnimation_76
+    21300154: LoadingAnimation_77
+    21300156: LoadingAnimation_78
+    21300158: LoadingAnimation_79
+    21300160: LoadingAnimation_80
+    21300162: LoadingAnimation_81
+    21300164: LoadingAnimation_82
+    21300166: LoadingAnimation_83
+    21300168: LoadingAnimation_84
+    21300170: LoadingAnimation_85
+    21300172: LoadingAnimation_86
+    21300174: LoadingAnimation_87
+    21300176: LoadingAnimation_88
+    21300178: LoadingAnimation_89
+    21300180: LoadingAnimation_90
+    21300182: LoadingAnimation_91
+    21300184: LoadingAnimation_92
+    21300186: LoadingAnimation_93
+    21300188: LoadingAnimation_94
+    21300190: LoadingAnimation_95
+    21300192: LoadingAnimation_96
+    21300194: LoadingAnimation_97
+    21300196: LoadingAnimation_98
+    21300198: LoadingAnimation_99
+    21300200: LoadingAnimation_100
+    21300202: LoadingAnimation_101
+    21300204: LoadingAnimation_102
+    21300206: LoadingAnimation_103
+    21300208: LoadingAnimation_104
+    21300210: LoadingAnimation_105
+    21300212: LoadingAnimation_106
+    21300214: LoadingAnimation_107
+    21300216: LoadingAnimation_108
+    21300218: LoadingAnimation_109
+    21300220: LoadingAnimation_110
+    21300222: LoadingAnimation_111
+    21300224: LoadingAnimation_112
+    21300226: LoadingAnimation_113
+    21300228: LoadingAnimation_114
+    21300230: LoadingAnimation_115
+    21300232: LoadingAnimation_116
+    21300234: LoadingAnimation_117
+    21300236: LoadingAnimation_118
+    21300238: LoadingAnimation_119
+    21300240: LoadingAnimation_120
+    21300242: LoadingAnimation_121
+    21300244: LoadingAnimation_122
+    21300246: LoadingAnimation_123
+    21300248: LoadingAnimation_124
+    21300250: LoadingAnimation_125
+    21300252: LoadingAnimation_126
+    21300254: LoadingAnimation_127
+    21300256: LoadingAnimation_128
+    21300258: LoadingAnimation_129
+    21300260: LoadingAnimation_130
+    21300262: LoadingAnimation_131
+    21300264: LoadingAnimation_132
+    21300266: LoadingAnimation_133
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: LoadingAnimation_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 988
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LoadingAnimation_1
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 990
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LoadingAnimation_2
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 991
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LoadingAnimation_3
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 992
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LoadingAnimation_4
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 994
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LoadingAnimation_5
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 995
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LoadingAnimation_6
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 996
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LoadingAnimation_7
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 997
+        width: 27
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LoadingAnimation_8
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 994
+        width: 32
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LoadingAnimation_9
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 992
+        width: 36
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LoadingAnimation_10
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 925
+        width: 37
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LoadingAnimation_11
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 920
+        width: 36
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LoadingAnimation_12
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 913
+        width: 38
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LoadingAnimation_13
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 908
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LoadingAnimation_14
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 907
+        width: 36
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LoadingAnimation_15
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 904
+        width: 35
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LoadingAnimation_16
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 907
+        width: 35
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LoadingAnimation_17
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 905
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LoadingAnimation_18
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 907
+        width: 42
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LoadingAnimation_19
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 904
+        width: 48
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LoadingAnimation_20
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 940
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LoadingAnimation_21
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 843
+        width: 42
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LoadingAnimation_22
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 844
+        width: 41
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LoadingAnimation_23
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 845
+        width: 40
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LoadingAnimation_24
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 856
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LoadingAnimation_25
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 850
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LoadingAnimation_26
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 846
+        width: 38
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LoadingAnimation_27
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 848
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LoadingAnimation_28
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 858
+        width: 34
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LoadingAnimation_29
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 847
+        width: 12
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LoadingAnimation_30
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 849
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LoadingAnimation_31
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 867
+        width: 33
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LoadingAnimation_32
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 847
+        width: 11
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LoadingAnimation_33
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 850
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LoadingAnimation_34
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 862
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LoadingAnimation_35
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 852
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LoadingAnimation_36
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 847
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LoadingAnimation_37
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 863
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LoadingAnimation_38
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 852
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LoadingAnimation_39
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 866
+        width: 27
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LoadingAnimation_40
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 854
+        width: 37
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LoadingAnimation_41
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 814
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LoadingAnimation_42
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 798
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LoadingAnimation_43
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 796
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LoadingAnimation_44
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 795
+        width: 33
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LoadingAnimation_45
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 794
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LoadingAnimation_46
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 793
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LoadingAnimation_47
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 809
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LoadingAnimation_48
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 792
+        width: 9
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LoadingAnimation_49
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 791
+        width: 9
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LoadingAnimation_50
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 791
+        width: 6
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LoadingAnimation_51
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 790
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LoadingAnimation_52
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 790
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LoadingAnimation_53
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 732
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LoadingAnimation_54
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 731
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LoadingAnimation_55
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 726
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LoadingAnimation_56
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 724
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LoadingAnimation_57
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 661
+        width: 67
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LoadingAnimation_58
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 724
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LoadingAnimation_59
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 724
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LoadingAnimation_60
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 664
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LoadingAnimation_61
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 665
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LoadingAnimation_62
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 663
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LoadingAnimation_63
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 656
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LoadingAnimation_64
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 655
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LoadingAnimation_65
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 652
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LoadingAnimation_66
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 649
+        width: 45
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LoadingAnimation_67
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 647
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LoadingAnimation_68
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 644
+        width: 48
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LoadingAnimation_69
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 580
+        width: 48
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LoadingAnimation_70
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 579
+        width: 49
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LoadingAnimation_71
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 580
+        width: 49
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LoadingAnimation_72
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 580
+        width: 49
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LoadingAnimation_73
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 581
+        width: 50
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LoadingAnimation_74
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 582
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LoadingAnimation_75
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 580
+        width: 53
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LoadingAnimation_76
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 583
+        width: 50
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LoadingAnimation_77
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 584
+        width: 50
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LoadingAnimation_78
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 584
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LoadingAnimation_79
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 520
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LoadingAnimation_80
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 520
+        width: 47
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LoadingAnimation_81
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 520
+        width: 47
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LoadingAnimation_82
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 520
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LoadingAnimation_83
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 520
+        width: 46
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LoadingAnimation_84
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 520
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LoadingAnimation_85
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 520
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LoadingAnimation_86
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 520
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LoadingAnimation_87
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 520
+        width: 46
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LoadingAnimation_88
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 520
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LoadingAnimation_89
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 456
+        width: 46
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LoadingAnimation_90
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 457
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LoadingAnimation_91
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 455
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LoadingAnimation_92
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 453
+        width: 52
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LoadingAnimation_93
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 392
+        width: 54
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LoadingAnimation_94
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 486
+        width: 34
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LoadingAnimation_95
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 477
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LoadingAnimation_96
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 496
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LoadingAnimation_97
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 492
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LoadingAnimation_98
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 471
+        width: 33
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LoadingAnimation_99
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 393
+        width: 38
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LoadingAnimation_100
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 461
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LoadingAnimation_101
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 488
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LoadingAnimation_102
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 471
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LoadingAnimation_103
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 481
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LoadingAnimation_104
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 455
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LoadingAnimation_105
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 481
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LoadingAnimation_106
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 454
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LoadingAnimation_107
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 469
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LoadingAnimation_108
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 469
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LoadingAnimation_109
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 459
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LoadingAnimation_110
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 468
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LoadingAnimation_111
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 474
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LoadingAnimation_112
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 469
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LoadingAnimation_113
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 469
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LoadingAnimation_114
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 455
+        width: 27
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LoadingAnimation_115
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 457
+        width: 25
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LoadingAnimation_116
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 463
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LoadingAnimation_117
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 452
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LoadingAnimation_118
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 458
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LoadingAnimation_119
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 456
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LoadingAnimation_120
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 458
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LoadingAnimation_121
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 450
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LoadingAnimation_122
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 392
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LoadingAnimation_123
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 393
+        width: 28
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LoadingAnimation_124
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 443
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LoadingAnimation_125
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 399
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LoadingAnimation_126
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 410
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LoadingAnimation_127
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 407
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LoadingAnimation_128
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 393
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LoadingAnimation_129
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 390
+        width: 7
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LoadingAnimation_130
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 396
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LoadingAnimation_131
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 404
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LoadingAnimation_132
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 393
+        width: 23
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LoadingAnimation_133
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 396
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
