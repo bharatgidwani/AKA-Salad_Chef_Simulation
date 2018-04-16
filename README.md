@@ -1,20 +1,18 @@
 # AKA-Salad_Chef_Simulation
-1. Player Control : Press A,B,C,D,E OR F from keyboard to select a particular vegetable.
+Tasks Done : 
+Player Control : Press A,B,C,D,E OR F from keyboard to select a particular vegetable.
 
-2. Score Criteria : 
-a. if customer did not wait more than the expected waiting time then score will be -> Total score + (100 - Time taken by player to serve)
-b. if customer is served wrong dish then score will be -> Total Score - 100(Penalty)
-c. if customer waited more than the expected time but served right dish then score will be -> Total score - Extra Time wait(No extra points will be given )
+Score Criteria : a. if customer did not wait more than the expected waiting time then score will be -> Total score + (100 - Time taken by player to serve) b. if customer is served wrong dish then score will be -> Total Score - 100(Penalty) c. if customer waited more than the expected time but served right dish then score will be -> Total score - Extra Time wait(No extra points will be given )
 
-3. Customers:
-a. Served : if customer did not wait more than the expected waiting time.
-b. Angry: if customer is not served with the right dish
-c. dissatisfied: if customer is not served within the expected time interval
+Randomization: No of customers and their orders will be in random order.
 
-4. Remaining Tasks:
-a.If a salad is given to a customer before 70% of the waiting time, the customer will award the player with a pickup. 
-The pickup will be spawned at a random free spot in the level and can only be picked up by the player that satisfied the customer. • 
-b. Implementation of different pickups:
-o Speed: Increases the player’s movement speed for a period of time 
-o Time: Increases the overall time that the player has left
-o Score: Adds some points to the player score count 
+Waiting Time:  For now I assumed customers are in a queue so waiting time will be in increasing order with maximum serving period of 30s. We can extend this feature by changing waiting time with the no of ingredients.
+
+Customers: a. Served : if customer did not wait more than the expected waiting time. b. Angry: if customer is not served with the right dish c. dissatisfied: if customer is not served within the expected time interval
+
+Remaining tasks:-
+
+1. Remaining Tasks: 
+a.Implementation of different pickups: 
+b. Changing waiting time with the no of ingredients. For now I just assumed customers are in a queue . So if 1st customer has waiting time of 30s then 2nd customer will have 60s of waiting time.
+
